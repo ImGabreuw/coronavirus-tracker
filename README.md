@@ -5,7 +5,7 @@
 - HttpClient / HttpRequest / HttpReponse
 - Explorando a biblioteca de CSV do APACHE ([+ INFORMAÇÕES](https://commons.apache.org/proper/commons-csv/user-guide.html))
 - Trabalhando com schedulers no Spring
-- Front-end (HTML / Thymeleaf)
+- Front-end (HTML / [Thymeleaf](https://www.thymeleaf.org/))
 
 <h2>Tutorial</h2>
 
